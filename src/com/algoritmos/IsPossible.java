@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * IsPossible contem um algoritmo que calcula se e possivel ou nao tranformar um par de numeros em outro utilizando 
- * basicamento operacao de soma incremental.
+ * basicamente operacao de soma incremental e recursividade.
  * Por exemplo (1, 4) -> (1+4, 4) -> (5, 4) -> (5, 5+4) -> (5, 9) e por aí vai. Utiliza entrada e saida padrao.
  * A primeira linha contem o primeiro numero: a;
  * A segunda linha contem o segundo numero: b;
